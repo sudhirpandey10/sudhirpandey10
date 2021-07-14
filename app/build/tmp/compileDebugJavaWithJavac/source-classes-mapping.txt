@@ -1,0 +1,10 @@
+com/test/olineo/MainActivity.java
+ com.test.olineo.MainActivity
+ com.test.olineo.MainActivity$1
+ com.test.olineo.MainActivity$2
+com/test/olineo/BuildConfig.java
+ com.test.olineo.BuildConfig
+com/test/olineo/SignupActivity.java
+ com.test.olineo.SignupActivity
+com/test/olineo/Private.java
+ com.test.olineo.Private
